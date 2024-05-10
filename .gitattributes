@@ -1,3 +1,4 @@
 /Users/rileyjones/Desktop/Grad_School/BIOL668/BIOL668_RJones_Final/BIOL668_RJones_Final filter=lfs diff=lfs merge=lfs -text
+*.Rmd filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.rds filter=lfs diff=lfs merge=lfs -text
